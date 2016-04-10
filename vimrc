@@ -152,7 +152,7 @@ map <leader>gt :CommandTTag<cr>
 map <leader>f :CommandT<cr>
 map <leader>F :CommandT %%<cr>
 
-let g:CommandTMatchWindowAtTop=1
+let g:CommandTMatchWindowAtTop=0
 let g:CommandTMaxHeight=10
 let g:CommandTMinHeight=2
 
